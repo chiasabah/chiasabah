@@ -11,7 +11,7 @@ Hi 👋 My name is @HungerDebugger
 Software Engineer
 -----------------
 
-I started learning programming at 9 and have been loving it ever since! I'm currently a university student and have experience with Java, C#, Python, Bash, HTML, JavaScript and CSS. I would love to collaborate on projects that contribute to the community and look forward to doing more of that in the future.
+I started learning programming at 9 and have been loving it ever since! I'm currently a university student and have experience with Java, C#, Python, Bash, VB.NET,HTML, JavaScript and CSS. I would love to collaborate on projects that contribute to the community and look forward to doing more of that in the future.
 
 *   🌍  I'm based in UK
 *   🧠  I'm currently getting familiar with the Linux Environment.
