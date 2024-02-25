@@ -1,21 +1,21 @@
 <!---
-- 👋 Hi, I’m @HungerDebugger
+- 👋 Hi, I’m @chiasabah
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
-Hi 👋 My name is @HungerDebugger
+Hi 👋 My name is @chiasabah
 ================================
 
 Software Engineer
 -----------------
 
-I started learning programming at 9 and have been loving it ever since! I'm currently a university student and have experience with Java, C#, Python, Bash, VB.NET, HTML, JavaScript and CSS. I would love to collaborate on projects that contribute to the community and look forward to doing more of that in the future.
+I started coding at a young age and have been enjoying it ever since! I'm currently a university student. I have experience with Java, C#, Python, Bash, VB.NET, JavaScript. I would love to collaborate on projects that contribute to the community and look forward to doing more of that in the future.
 
-*   🌍  I'm based in UK
-*   🧠  I'm currently getting familiar with the Linux Environment.
-*   ⚡  I'm secretly in love with debugging code... Don't tell anyone else!
+*   🌍  I'm based in the UK.
+*   🧠  I'm currently a student.
+*   ⚡  I enjoy debugging code...
 
 ### Skills
 <p align="left">
@@ -31,6 +31,6 @@ I started learning programming at 9 and have been loving it ever since! I'm curr
                     
 
 <!---
-HungerDebugger/HungerDebugger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+chiasabah/chiasabah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
