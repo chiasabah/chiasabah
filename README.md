@@ -5,19 +5,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
-Hi 👋 My name is @chiasabah
-================================
+Interested in software engineering, model driven engineering and agentic architectures.
 
-Software Engineer
------------------
-
-I started coding at a young age and have been enjoying it ever since! I'm currently a university student. I have experience with Java, C#, Python, Bash, VB.NET, JavaScript. I would love to collaborate on projects that contribute to the community and look forward to doing more of that in the future.
-
-*   🌍  I'm based in the UK.
-*   🧠  I'm currently a student.
-*   ⚡  I enjoy debugging code...
-
-### Skills
+### Skills/Interests
 <p align="left">
                                 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
                                 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
